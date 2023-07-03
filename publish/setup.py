@@ -21,6 +21,7 @@ setuptools.setup(
         'artificial intelligence', 'machine learning', 'deep learning', 'neural network',
         'visualizer', 'viewer'
     ],
+    // where is rk model?
     license="MIT",
     package_dir={ 'netron': 'netron' },
     packages=[ 'netron' ],
